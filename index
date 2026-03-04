@@ -1,0 +1,147 @@
+<html>
+
+<head>
+<title>Tarea 3</title>
+</head>
+<body>
+<a name="menu"></a>
+
+<h1 align="center">Mis gustos personales</h1>
+
+<hr size="10" width="100%" color="blue" noshade>
+
+<!-- MENU -->
+<h2>Menú</h2>
+<ul>
+<li><a href="#series">Series</a></li>
+<li><a href="#deportes">Deportes</a></li>
+<li><a href="#peliculas">Películas</a></li>
+<li><a href="#paginas">Páginas Propias</a></li>
+<li><a href="#internet">Páginas de Internet</a></li>
+</ul>
+
+<h1>Series favoritas</h1>
+
+<a name="series"></a>
+
+<marquee width="100%" height="50" bgcolor="pink" direction="left" behavior="scroll">
+Mis 10 series favoritas
+</marquee>
+<img src="la casa.jpg" width="100">
+<ol type="1">
+<li>Cosas más extrañas</li>
+<li>Los muertos vivientes</li>
+<li>Breaking Bad</li>
+<li>La Casa de Papel</li>
+<li>Oscuro</li>
+<li>Élite</li>
+<li>Merlina</li>
+<li>Cobra Kai</li>
+<li>Los chicos</li>
+<li>Lucifer</li>
+</ol>
+
+
+<a href="#menu">Regresar al menú</a>
+
+<hr size="20" width="100%" color="red" noshade>
+
+<h1>Deportes favoritos</h1>
+
+<a name="deportes"></a>
+
+<hr size="20" width="100%" color="blue" noshade>
+
+<ol type="A">
+<li>Fútbol</li>
+<li>Baloncesto</li>
+<li>Natación</li>
+<li>Voleibol</li>
+<li>Ciclismo</li>
+<li>Boxeo</li>
+<li>Atletismo</li>
+<li>Tenis</li>
+<li>Ping pong</li>
+<li>Patinaje</li>
+</ol>
+
+<!-- CANCION AGREGADA -->
+<p>Canción:</p>
+
+<audio controls>
+<source src="limp.mp3" type="audio/mpeg">
+</audio>
+
+<br>
+<a href="#menu">Regresar al menú</a>
+
+<hr size="20" width="100%" color="blue" noshade>
+
+<h1>Películas favoritas</h1>
+
+<a name="peliculas"></a>
+
+<marquee width="100%" height="50" bgcolor="lightblue" direction="right" behavior="alternate">
+Mis películas favoritas
+</marquee>
+
+<ul type="circle">
+<li>Vengadores: Endgame</li>
+<li>Spider-Man: Sin camino a casa</li>
+<li>Rápidos y Furiosos</li>
+<li>Mundo Jurásico</li>
+<li>Batman</li>
+<li>Interestelar</li>
+<li>Transformadores</li>
+<li>Harry Potter</li>
+</ul>
+
+<!-- VIDEO AGREGADO -->
+<p>Video:</p>
+
+<video width="320" controls>
+<source src="avengers.mp4" type="video/mp4">
+</video>
+
+<br>
+<a href="#menu">Regresar al menú</a>
+<hr size="20" width="100%" color="green" noshade>
+
+<h1>Páginas Propias</h1>
+
+<a name="paginas"></a>
+
+<ul>
+<li><a href="programacion.html">pagina 1</a></li>
+<li><a href="matematicas.html">pagina 2</a></li>
+<li><a href="ingles.html">pagina 3</a></li>
+</ul>
+
+<p>Canción:</p>
+
+<audio controls>
+<source src="nookie.MP3" type="audio/mpeg">
+</audio>
+
+<br>
+<a href="#menu">Regresar al menú</a>
+
+
+<hr size="20" width="100%" color="purple" noshade>
+
+<h1>Páginas de Internet</h1>
+
+<a name="internet"></a>
+
+<ul>
+<li><a href="https://www.merida.tecnm.mx/" target="_blank">ITM</a></li>
+<li><a href="https://uady.mx" target="_blank">UADY</a></li>
+<li><a href="https://cobay.yucatan.gob.mx" target="_blank">COBAY</a></li>
+</ul>
+
+<img src="cobay.jpg" width="200">
+
+<br>
+<a href="#menu">Regresar al menú</a>
+</body>
+</html>
